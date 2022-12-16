@@ -15,7 +15,7 @@ Add your name to the list below 'Entries'.
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
 
 Your entry should maintain alphabetic order and it should be in the format:
-   * ` your name [username](http://github.com/username)`.  
+   * ` prabhatkumar3918(http://github.com/prabhatkumar3918)`.  
 
 
 - Your Pull Request must have only one commit (if there are multiple commits, you should squash them). 
